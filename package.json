@@ -75,7 +75,7 @@
     "eslint-plugin-react": "7.3.0",
     "expect": "1.20.2",
     "expect-jsx": "2.6.0",
-    "express": "4.15.4",
+    "express": "4.16.1",
     "extract-text-webpack-plugin": "2.1.2",
     "gh-pages": "1.0.0",
     "happypack": "4.0.0",
